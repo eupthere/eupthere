@@ -1,4 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="github-profile-banner.gif" alt="Banner" width="1200" />
+</p>
+
+<!--
+<p align="center">
+  <a href="https://solved.ac/user213123/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=user213123" alt="Solved.ac Profile" />
+  </a>
+</p>
+-->
 
 <!--
 **eupthere/eupthere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
