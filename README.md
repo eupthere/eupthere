@@ -1,6 +1,9 @@
 <p align="center">
   <img src="github-profile-banner.gif" alt="Banner" width="1200" />
+  <br />
+  <em>Made with <a href="https://github.com/processing/p5.js/">p5.js</a></em>
 </p>
+
 
 ## Hi there! 👋
 
@@ -12,7 +15,7 @@ Computers do not seem to speak such uncertain languages.
 
 As a developer, I aspire to connect humans with computers to enrich our lives.
 
-I love creating very specific tools that meet unique needs.
+I love creating very specific tools that meet unique needs. 
 
 
 ## More about me
